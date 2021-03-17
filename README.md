@@ -7,9 +7,8 @@
 
 | Where | What | Date |
 |:--------------------------- |:-----|:-----|
-| [Twitch](https://twitch.tv/cobusbernard) | Bean Streaming | Every Monday / Friday @ 11:00 SAST |
-| [Youtube](https://www.youtube.com/playlist?list=PLb0fBs5uNGCuCO3SuQxDwSUk1cNCVHTea) | Past Bean Streaming | Weekly Episodes |
-| [Twitch](https://twitch.tv/cobusbernard) | AWS Africa Office Hours | Every Thursday @ 12:00 SAST |
+| [Twitch](https://twitch.tv/cobusbernard) | Bean Streaming | Every Wednesday @ 13:00 CEST or now-now after 12 SAST (timezones are hard) |
+| [Youtube](https://www.youtube.com/playlist?list=PLb0fBs5uNGCuCO3SuQxDwSUk1cNCVHTea) | Past DevBeardOps & Bean Streaming | Weekly Episodes |
 | [Youtube](https://www.youtube.com/playlist?list=PLCo2qyjyBlAS6P8w9xLDAgmfWPka0-tLH) | Past AWS Africa Office Hours | Weekly Episodes |
 | [Youtube](https://www.youtube.com/playlist?list=PLCo2qyjyBlAS29BP4RdkaH7suCeGnRhcg) | Getting Started with Terraform on AWS | Weekly Episodes |
 
