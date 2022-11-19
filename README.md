@@ -1,4 +1,5 @@
-<p align="center" valign="center"><a href="https://cobus.io">Website</a> | <a href="https://twitter.com/cobusbernard">Twitter</a> | <a href="https://www.linkedin.com/in/cobusbernard">LinkedIn</a></p>
+
+<p align="center" valign="center"><a href="https://cobus.io">Website</a> | <a href="https://twitter.com/cobusbernard">Twitter</a> | <a href="https://www.linkedin.com/in/cobusbernard">LinkedIn</a> | <a rel="me" href="https://hachyderm.io/@cobusbernard">Mastodon</a> </p>
 
 # Stuff™
 :speaking_head: :cloud: :computer:
