@@ -10,7 +10,6 @@
 |:--------------------------- |:-----|
 | [Youtube](https://www.youtube.com/playlist?list=PLb0fBs5uNGCuCO3SuQxDwSUk1cNCVHTea) | Past DevBeardOps & Bean Streaming |
 | [Youtube](https://www.youtube.com/playlist?list=PLCo2qyjyBlAS29BP4RdkaH7suCeGnRhcg) | Getting Started with Terraform on AWS |
-| [Weekly Twitch BuildOn Answered](https://twitch.tv/aws) | Every Wednesday @ 11am PST |
 
 
 
