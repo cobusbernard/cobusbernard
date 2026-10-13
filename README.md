@@ -1,10 +1,18 @@
 
-<p align="center" valign="center"><a href="https://cobus.io">Website</a> | <a href="https://twitter.com/cobusbernard">Twitter</a> | <a href="https://www.linkedin.com/in/cobusbernard">LinkedIn</a> | <a rel="me" href="https://hachyderm.io/@cobusbernard">Mastodon</a> </p>
+<p align="center" valign="center"><a href="https://cobus.io">Blog</a> | <a href="https://x.com/cobusbernard">Twitter</a> | <a href="https://www.linkedin.com/in/cobusbernard">LinkedIn</a>
 
 # Stuff™
 :speaking_head: :cloud: :computer:
 
 ## Where to find me
+| Where | What |
+|:--------------------------- |:-----|
+| [UiPath Dev Dives](https://uipath.ly/cb-dev-dives) | Monthly UiPath Dev Dives |
+| [UiPath Tutorials](https://uipath.ly/cb-docs-tutorials) | UiPath Getting Started Tutorials |
+| [Dev.to blogs](https://uipath.ly/cb-devto-blogs) | UiPath dev.to Blogs |
+
+
+## Past content
 
 | Where | What |
 |:--------------------------- |:-----|
